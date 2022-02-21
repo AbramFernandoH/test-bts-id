@@ -1,0 +1,17 @@
+.checklists .checklist-wrapper {
+  border: 1px solid black;
+}
+
+.checklists .checklist {
+  text-decoration: none;
+  color: cornflowerblue;
+}
+
+.checklists .delete-checklist {
+  border: 1px solid red;
+}
+
+.checklists .delete-checklist a {
+  margin: 3px;
+  text-decoration: none;
+}
